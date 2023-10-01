@@ -9,4 +9,7 @@ int main()
     if (i > 0) {
 	    cout << "Very well!\n";
     }
+    else {
+	    cout << "Oh, try again please";
+    }
 }
